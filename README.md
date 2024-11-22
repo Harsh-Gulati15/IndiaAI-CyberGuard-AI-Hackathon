@@ -17,8 +17,4 @@ The dataset contains crime descriptions and their respective categories. The dat
 4. Evaluation
    - Evaluated the model using metrics like accuracy, precision, recall, and F1-score.
 
-## Usage Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/project-name.git
-   cd project-name
+

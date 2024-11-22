@@ -17,4 +17,4 @@ The dataset contains crime descriptions and their respective categories. The dat
 4. Evaluation
    - Evaluated the model using metrics like accuracy, precision, recall, and F1-score.
 
-
+Link to the.pkl file: https://drive.google.com/file/d/1mSUG-qfriAjm3B_VD087UUSm_hEGsv_R/view?usp=sharing
